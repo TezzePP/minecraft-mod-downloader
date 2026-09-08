@@ -33,7 +33,7 @@ Example configuration:
 MINECRAFT_VERSION = "26.2"
 LOADER = "fabric"
 
-DOWNLOAD_FOLDER = r"C:\Users\YourName\Documents\Mods"
+DOWNLOAD_FOLDER = r"C:\Users\Username\Documents\LocationOfTheMods"
 
 MAX_WORKERS = 5
 
